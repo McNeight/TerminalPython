@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/McNeight/TerminalPython.svg?branch=master)](https://travis-ci.org/McNeight/TerminalPython)
-
 [![Code Health](https://landscape.io/github/McNeight/TerminalPython/master/landscape.svg?style=flat)](https://landscape.io/github/McNeight/TerminalPython/master)
 
 TerminalPython
